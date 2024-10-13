@@ -1,0 +1,20 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.requireConfig": true,
+    "prettier.useEditorConfig": false,
+    "javascript.format.enable": false,
+    "typescript.format.enable": false,
+    "prettier.configPath": "prettier.config.js",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
